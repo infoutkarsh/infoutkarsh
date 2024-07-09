@@ -11,11 +11,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/infoutkarsh](https://github.com/infoutkarsh)
 
-- 💬 Ask me about **Machine Learning,Python,SQL**
+- 💬 Ask me about **Data Science,Machine Learning,Python,SQL,Data Visualizations**
 
 - 📫 How to reach me **23mb0068@iitism.ac.in**
 
-- 📄 Know about my experiences [Slice,Ex-IndiaMart,Ex-Vedantu](Slice,Ex-IndiaMart,Ex-Vedantu)
+- 📄 Know about my experiences [Slice,IndiaMart,Vedantu](Slice,Ex-IndiaMart,Ex-Vedantu)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
