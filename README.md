@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Singh</h1>
 <h3 align="center">A passionate Data Enthusiast from India</h3>
 
-- 🔭 I’m currently working on [Swiggy Data Analytics](https://github.com/infoutkarsh/Data-Science-Projects/blob/main/Swiggy%20Data%20Analysis.ipynb)
+- 🔭 I’m currently working on [Gen AI & LLM](https://github.com/infoutkarsh/GenAI)
 
 - 🌱 I’m currently learning **Frameworks,Webscraping in Data Science**
 
