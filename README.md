@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Singh</h1>
 <h3 align="center">A passionate Data Enthusiast from India</h3>
 
-- 🔭 I’m currently working on [Gen AI & LLM Projects](https://github.com/infoutkarsh/GenAI)
+- 🔭 I’m currently working on [Gen AI-LLM Projects](https://github.com/infoutkarsh/GenAI)
 
 - 🌱 I’m currently learning **Frameworks,Webscraping in Data Science**
 
