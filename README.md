@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Singh</h1>
 <h3 align="center">A passionate Data Enthusiast from India</h3>
 
-- 🔭 I’m currently working on [Gen AI & LLM](https://github.com/infoutkarsh/GenAI)
+- 🔭 I’m currently working on [Gen AI & LLM Projects](https://github.com/infoutkarsh/GenAI)
 
 - 🌱 I’m currently learning **Frameworks,Webscraping in Data Science**
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/infoutkarsh](https://github.com/infoutkarsh)
 
-- 💬 Ask me about **Data Science,Machine Learning,Python,SQL,Data Visualizations**
+- 💬 Ask me about **Data Science,Machine Learning,Data Visualizations,Product Management**
 
 - 📫 How to reach me **23mb0068@iitism.ac.in**
 
